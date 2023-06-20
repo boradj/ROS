@@ -1,12 +1,5 @@
 '''
-we are five person in group:
-Jaydip Borad
-Shresth sharma
-Dharmesh patel
-milind milind
-Aayush Surana
-
-to execute this file we have to install sympy by using pip install sympy
+have to install sympy by using pip install sympy
 '''
 import rospy
 import threading
