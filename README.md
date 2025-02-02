@@ -1,4 +1,4 @@
-# Master README - ROS Navigation and Trajectory Control
+# ROS Navigation and Trajectory Control
 
 ## Overview
 This repository contains two ROS-based projects that focus on trajectory generation and point-to-point navigation:
